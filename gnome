@@ -7,6 +7,7 @@ xsetroot -solid grey
 vncconfig -iconic &
 vncconfig -nowin &
 
+#gnome-session &    #In some occasions
 gnome-panel &
 gnome-settings-daemon &
 metacity &
