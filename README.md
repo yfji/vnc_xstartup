@@ -15,4 +15,4 @@ If you are using gnome, things are different. Suppose your system is using gnome
 
 $ sudo apt-get install ubuntu-desktop gnome-panel gnome-settins-daemon metacity nautilus gnome-terminal
 
-then copy the content of 'gnome' to your xstartup file: ~/.vncstartup
+then copy the content of 'gnome' to your xstartup file: ~/.vnc/xstartup
